@@ -1,3 +1,3 @@
 # hello-world
 Fresh Start
-Hi everyone! I'm a gradute student in Columbia University!
+Hi everyone! I'm a graduate student in Columbia University!
